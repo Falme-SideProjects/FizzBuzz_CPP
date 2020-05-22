@@ -50,4 +50,6 @@ int main()
 
     cin >> n;
     PrintFizzBuzz(n);
+    cout << "\n" << endl;
+    system("pause");
 }
